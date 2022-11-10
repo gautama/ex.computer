@@ -1,2 +1,2 @@
 
-<p align="center"># eX computer</p>
+<p align="center">eX computer</p>
